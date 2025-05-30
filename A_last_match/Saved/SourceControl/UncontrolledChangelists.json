@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/Blueprint/fire_system/Campfire.uasset",
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IW/S8TK1J82XU6MFEERC52L3J.uasset",
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/UI/cold/Coldbar.uasset",
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/UI/cold/emptycold.uasset",
+				"D:/work/github dekstop/A-last-match/A_last_match/Content/UI/cold/fullcold.uasset",
 				"C:/Users/Arthur/Documents/Unreal Projects/A_last_match/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Arthur/Documents/Unreal Projects/A_last_match/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"C:/Users/Arthur/Documents/Unreal Projects/A_last_match/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
